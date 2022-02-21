@@ -2,4 +2,3 @@
 - 👀 I’m interested in state-of-art technologies
 - 🌱 I’m currently working in couple of desktop gaming and web browsing apps for continues development.
 - 💞️ I’m looking to collaborate on two projects for the web as for cotinues intergation.
-- 📫 Reach me on postmaster@s1bp.com
